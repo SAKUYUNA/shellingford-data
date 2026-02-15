@@ -1,5 +1,8 @@
 {
+  "ts": "2026-02-15T21:00:00+09:00",
   "cands": [
-    { "code": "7011", "timeframe_suggest": "SWING" }
+    { "code": "7011", "timeframe_suggest": "SWING", "priority": 100, "score": 82, "reason": "防衛・需給◎" },
+    { "code": "7012", "timeframe_suggest": "DAY",   "priority": 80,  "score": 74, "reason": "短期の波形一致" },
+    { "code": "8031", "timeframe_suggest": "DAY",   "priority": 60,  "score": 68, "reason": "回転候補" }
   ]
 }
